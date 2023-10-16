@@ -2,5 +2,3 @@ baseURL = 'https://drbunea.ro'
 languageCode = 'en-us'
 title = 'CMI Dr. Bunea Maria'
 theme = 'lightbi-hugo'
-
-
